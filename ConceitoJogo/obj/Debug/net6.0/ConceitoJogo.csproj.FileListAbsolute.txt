@@ -1,0 +1,15 @@
+C:\Users\FELIPE\Documents\Projects\C#\ConceitoJogo\bin\Debug\net6.0\ConceitoJogo.exe
+C:\Users\FELIPE\Documents\Projects\C#\ConceitoJogo\bin\Debug\net6.0\ConceitoJogo.deps.json
+C:\Users\FELIPE\Documents\Projects\C#\ConceitoJogo\bin\Debug\net6.0\ConceitoJogo.runtimeconfig.json
+C:\Users\FELIPE\Documents\Projects\C#\ConceitoJogo\bin\Debug\net6.0\ConceitoJogo.dll
+C:\Users\FELIPE\Documents\Projects\C#\ConceitoJogo\bin\Debug\net6.0\ConceitoJogo.pdb
+C:\Users\FELIPE\Documents\Projects\C#\ConceitoJogo\obj\Debug\net6.0\ConceitoJogo.csproj.AssemblyReference.cache
+C:\Users\FELIPE\Documents\Projects\C#\ConceitoJogo\obj\Debug\net6.0\ConceitoJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FELIPE\Documents\Projects\C#\ConceitoJogo\obj\Debug\net6.0\ConceitoJogo.AssemblyInfoInputs.cache
+C:\Users\FELIPE\Documents\Projects\C#\ConceitoJogo\obj\Debug\net6.0\ConceitoJogo.AssemblyInfo.cs
+C:\Users\FELIPE\Documents\Projects\C#\ConceitoJogo\obj\Debug\net6.0\ConceitoJogo.csproj.CoreCompileInputs.cache
+C:\Users\FELIPE\Documents\Projects\C#\ConceitoJogo\obj\Debug\net6.0\ConceitoJogo.dll
+C:\Users\FELIPE\Documents\Projects\C#\ConceitoJogo\obj\Debug\net6.0\refint\ConceitoJogo.dll
+C:\Users\FELIPE\Documents\Projects\C#\ConceitoJogo\obj\Debug\net6.0\ConceitoJogo.pdb
+C:\Users\FELIPE\Documents\Projects\C#\ConceitoJogo\obj\Debug\net6.0\ConceitoJogo.genruntimeconfig.cache
+C:\Users\FELIPE\Documents\Projects\C#\ConceitoJogo\obj\Debug\net6.0\ref\ConceitoJogo.dll
