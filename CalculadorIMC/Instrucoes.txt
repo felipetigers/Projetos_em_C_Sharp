@@ -1,0 +1,13 @@
+IMC = Peso / (Altura * Altura)
+
+Menor que 18,5		magreza			0
+Entre 18,5 e 24,9	normal			0
+Entre 25,0 e 29,9	sobrepeso		i
+Entre 30 e 39,9		obesidade		ii	
+Maior que 40		obesidade grave		iii
+
+Seu IMC é de 25.7 kg/m2
+Sobrepeso
+
+De acordo com a OMS, para atingir um valor de IMC Normal, seu peso deve estar entre 50,4 e 67,8 kg.
+
