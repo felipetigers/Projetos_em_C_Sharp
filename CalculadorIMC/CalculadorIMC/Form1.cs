@@ -28,17 +28,13 @@ namespace CalculadorIMC
 
             txtSeuIMC.Text = Convert.ToString(Math.Round(vlrIMC, 2)) + " kg/m2";
 
-            if (vlrIMC < 18.5) {
-                txtResultado.Text = "Magreza";
-            } else if (vlrIMC >= 18.5 && vlrIMC < 25.0) {
-                txtResultado.Text = "Normal";
-            } else if (vlrIMC >= 25.0 && vlrIMC < 30.0) {
-                txtResultado.Text = "Sobrepeso";
-            } else if (vlrIMC >= 30.0 && vlrIMC < 40.0) {
-                txtResultado.Text = "Obesidade";
-            } else {
-                txtResultado.Text = "Obesidade grave";
-            }
+            //Operador ternário
+            txtResultado.Text =
+                vlrIMC < 18.5 ? "Magreza" :
+                vlrIMC >= 18.5 && vlrIMC < 25.0 ? "Normal" :
+                vlrIMC >= 25.0 && vlrIMC < 30.0 ? "Sobrepeso" :
+                vlrIMC >= 30.0 && vlrIMC < 40.0 ? "Obesidade" : "Obeside grave";
+
         }
     }
 }
