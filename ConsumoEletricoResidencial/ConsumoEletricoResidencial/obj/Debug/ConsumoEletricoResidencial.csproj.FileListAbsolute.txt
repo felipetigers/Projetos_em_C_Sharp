@@ -1,0 +1,10 @@
+c:\users\felipe\source\repos\ConsumoEletricoResidencial\ConsumoEletricoResidencial\bin\Debug\ConsumoEletricoResidencial.exe.config
+c:\users\felipe\source\repos\ConsumoEletricoResidencial\ConsumoEletricoResidencial\bin\Debug\ConsumoEletricoResidencial.exe
+c:\users\felipe\source\repos\ConsumoEletricoResidencial\ConsumoEletricoResidencial\bin\Debug\ConsumoEletricoResidencial.pdb
+c:\users\felipe\source\repos\ConsumoEletricoResidencial\ConsumoEletricoResidencial\obj\Debug\ConsumoEletricoResidencial.csprojAssemblyReference.cache
+c:\users\felipe\source\repos\ConsumoEletricoResidencial\ConsumoEletricoResidencial\obj\Debug\ConsumoEletricoResidencial.frmPrincipal.resources
+c:\users\felipe\source\repos\ConsumoEletricoResidencial\ConsumoEletricoResidencial\obj\Debug\ConsumoEletricoResidencial.Properties.Resources.resources
+c:\users\felipe\source\repos\ConsumoEletricoResidencial\ConsumoEletricoResidencial\obj\Debug\ConsumoEletricoResidencial.csproj.GenerateResource.cache
+c:\users\felipe\source\repos\ConsumoEletricoResidencial\ConsumoEletricoResidencial\obj\Debug\ConsumoEletricoResidencial.csproj.CoreCompileInputs.cache
+c:\users\felipe\source\repos\ConsumoEletricoResidencial\ConsumoEletricoResidencial\obj\Debug\ConsumoEletricoResidencial.exe
+c:\users\felipe\source\repos\ConsumoEletricoResidencial\ConsumoEletricoResidencial\obj\Debug\ConsumoEletricoResidencial.pdb
